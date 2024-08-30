@@ -4,7 +4,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=csharp,nodejs,express,prisma,graphql,nest,postgres,mysql,mongodb,firebase,docker,azure,aws)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,nginx,rest,graphql,nest,postgres,mysql,mongodb,firebase,docker,azure,aws)](https://skillicons.dev)
 
 - Front-End
 
